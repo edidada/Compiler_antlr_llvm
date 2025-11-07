@@ -61,6 +61,4 @@ public class lingScannerParserCheckListener extends lingBorBaseListener {
     public void exitId(lingBorParser.IdContext ctx) {
     }
 
-
-
 }

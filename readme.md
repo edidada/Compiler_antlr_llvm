@@ -4,7 +4,7 @@ Compiler Course repo for Personal study. There are notes and a java project whic
 by Yi Shi & Yu Zhang 
 
 #### Build Tool - Maven
-- The project uses maven to manage its dependency. The maven config file can be found [here](./pom.xml). 
+- The project uses maven to manage its dependency. The maven config file can be found [here](./project/pom.xml). 
 
 #### Entry Point and Test Cases
 - The project's test entry point can be found [here](./src/main/java/frontendtest/Test.java). 

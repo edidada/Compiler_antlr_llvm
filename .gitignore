@@ -5,3 +5,7 @@
 *pdfs
 .
 ..
+.idea/
+target/
+**/.idea/
+project/Compiler-Fake/.idea
