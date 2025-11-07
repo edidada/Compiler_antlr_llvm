@@ -1,4 +1,4 @@
-package parser;
+package suy.sy.parser;
 
 import com.ibm.icu.text.CaseMap;
 import typenscope.Arr;

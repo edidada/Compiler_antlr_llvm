@@ -1,4 +1,4 @@
-package parser;
+package suy.sy.parser;
 
 import typenscope.Arr;
 import typenscope.Intlit;

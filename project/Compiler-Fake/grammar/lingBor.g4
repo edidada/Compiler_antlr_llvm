@@ -1,5 +1,9 @@
 grammar lingBor;
 
+@header {
+package suy.sy.parser;
+}
+
 start_symbol: input;
 
 OP_DOT: '.';

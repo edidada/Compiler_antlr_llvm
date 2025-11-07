@@ -1,6 +1,6 @@
 package typenscope;
 
-import parser.lingBorParser;
+import suy.sy.parser.lingBorParser;
 
 import java.util.HashMap;
 import java.util.HashSet;

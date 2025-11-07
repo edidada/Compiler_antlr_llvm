@@ -1,4 +1,4 @@
-package parser;
+package suy.sy.parser;
 
 import org.antlr.v4.runtime.Token;
 import typenscope.*;
