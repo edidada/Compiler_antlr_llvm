@@ -1,5 +1,12 @@
 # my
 
+English papers
+nyu.edu
+
+ArrayDeclarationListener.java 保存HashMap<String, Symbol> symbolMap;
+lingCodeGenListener.java 代码生成，构造函数需要HashMap<String, Symbol> symbolMap;
+lingSyntaxCheckListener.java 类型检查
+
 ```shell
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Starting frontendtest.Test with p4test5
